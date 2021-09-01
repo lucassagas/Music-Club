@@ -31,9 +31,9 @@ body {
 
 body, input, textarea, button, p {
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: 0.75rem;
   font-weight: 600;
   color: var(---blackWithOpacity);
-  font-size: 1rem;
 }
 
 button {
@@ -50,11 +50,13 @@ h1, h2, h3, h4, h5 {
 }
 
 :root {
-  --primary: '#FFFFFF';
+  --primary: #FFFFFF;
   --secondary: linear-gradient(180deg, rgba(244, 249, 255, 0.0001) 0%, #F4F9FF 26.23%);
-  --tertiary: '#F51E38';
-  --black: '#0F1E36';
+  --tertiary: #F51E38;
+  --pink: #F79DA8 ;
+  --black: #0F1E36;
   --blackWithOpacity: rgba(15,30,54, 0.5);
-  --gray: '#EEEEEE';
+  --gray: #EEEEEE;
+  --purple: #3E2AD1;
 }
 `;

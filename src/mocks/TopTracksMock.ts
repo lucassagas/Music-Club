@@ -1,0 +1,58 @@
+export default [
+  {
+    id: 1,
+    title: 'Dame Dame',
+    artist: 'Claydee feat',
+    daily_plays: '39,566',
+    time: '4:21',
+  },
+  {
+    id: 2,
+    title: 'Kamelia',
+    artist: 'DDY Nunes',
+    daily_plays: '32,420',
+    time: '3:30',
+  },
+  {
+    id: 3,
+    title: 'Laugh Till You Cry',
+    artist: 'Faydee',
+    daily_plays: '28,221',
+    time: '3:56',
+  },
+  {
+    id: 4,
+    title: "I don't know",
+    artist: 'Deejay Flay',
+    daily_plays: '21,528',
+    time: '2:26',
+  },
+  {
+    id: 5,
+    title: 'Dame Dame',
+    artist: 'Claydee feat',
+    daily_plays: '39,566',
+    time: '4:21',
+  },
+  {
+    id: 6,
+    title: 'Kamelia',
+    artist: 'DDY Nunes',
+    daily_plays: '32,420',
+    time: '3:30',
+  },
+  {
+    id: 7,
+    title: 'Laugh Till You Cry',
+    artist: 'Faydee',
+    daily_plays: '28,221',
+    time: '3:56',
+  },
+  {
+    id: 8,
+    title: "I don't know",
+    artist: 'Deejay Flay',
+    daily_plays: '21,528',
+    time: '2:26',
+  },
+] as const;
