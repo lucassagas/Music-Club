@@ -2,7 +2,7 @@
     <img alt="Music Club" src="https://github.com/lucassagas/Music-Club/blob/master/src/assets/git/logo.png" />
 </h1>
 
-![App Screenshot](https://github.com/lucassagas/Music-Club/blob/master/src/assets/git/logo.png)
+![App Screenshot](https://github.com/lucassagas/Music-Club/blob/master/src/assets/git/preview.png)
 
 <p align="center">
   <a href="https://wizardly-hawking-310a8d.netlify.app" target="_blank">
