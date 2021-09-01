@@ -12,7 +12,7 @@
 
 ## :rocket: Technologies
 
-This project was developed live at [twitch.tv/lukemoralestv](https://www.twitch.tv/lukemoralestv) with the following technologies:
+project developed to practice styled-components, with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [Typescript][ts]
